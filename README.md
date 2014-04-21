@@ -1,6 +1,5 @@
-Final project for Mashups class.
-(under constructured)
+Web Audio 3D
 
-"Amarican Idol 101"
--listen to a clip of chord and try to sing back and match it.
--crowd-sourcing: user can upload their singing as part of the database.
+fft analysis of live microphone input.
+visualize with Three.js.
+sample size: 2048, actual drawing length: 64.
